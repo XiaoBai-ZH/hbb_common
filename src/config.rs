@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.xiaobai-zh.top"];
-pub const RS_PUB_KEY: &str = "xiaobai_key";
+pub const RS_PUB_KEY: &str = "J6Z0gDr5vclcxh1K+w0+qjp92qVJkDPPjyR7gVDOknE=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
